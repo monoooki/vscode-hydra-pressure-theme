@@ -1,0 +1,49 @@
+{
+  "name": "hydra-pressure-theme",
+  "displayName": "Hydra Pressure",
+  "publisher": "monoooki",
+  "version": "1.0.2",
+  "description": "Candy-neon oranges and chilled cyans with balanced dark and light.",
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#0F141B",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "hydra pressure",
+    "splatoon",
+    "neon",
+    "dark theme",
+    "light theme"
+  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "homepage": "https://github.com/monoooki/vscode-hydra-pressure-theme#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/monoooki/vscode-hydra-pressure-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/monoooki/vscode-hydra-pressure-theme/issues"
+  },
+  "qna": false,
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hydra Pressure Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hydra-pressure-dark-color-theme.json"
+      },
+      {
+        "label": "Hydra Pressure Light",
+        "uiTheme": "vs",
+        "path": "./themes/hydra-pressure-light-color-theme.json"
+      }
+    ]
+  }
+}

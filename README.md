@@ -2,7 +2,7 @@
 
 ![hero](assets/hero.png)
 
-**Hydra Pressure** wraps VS Code in candy-neon ember orange and chilled cyan, pairing industrial edges with playful highlights; the name comes from the [_Torrentz Hydra Splatling_](https://splatoonwiki.org/wiki/Torrentz_Hydra_Splatling) heavy weapon in Splatoon 3, which inspired the palette.
+**Hydra Pressure** wraps VS Code in candy-neon ember orange and chilled cyan, pairing industrial edges with playful highlights; the name nods to the [_Hydra Splatling_](https://splatoonwiki.org/wiki/Hydra_Splatling) kit that inspired the palette’s high-pressure contrast.
 
 ![](assets/hydra-pressure-dark.png)
 
